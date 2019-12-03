@@ -1,0 +1,21 @@
+h1
+{
+	background-color: orange;
+	font-family: TIMES NEW ROMAN;
+	margin-top: 0px;
+	min-width: 130px;
+	text-align: center;
+	padding: 8px 15px;
+	margin-left: 0px
+	}
+
+	h2
+	{
+	background-color: orange;
+	font-family: Arial;
+	text-align: left;
+	padding: 8px 15px;
+	margin-left: 0px
+	min-width:2px;
+	width: 30%;
+	}
